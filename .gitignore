@@ -6,6 +6,7 @@ Saved/
 
 # Visual Studio
 .vs/
+.vscode/
 *.VC.db
 
 # Build files
