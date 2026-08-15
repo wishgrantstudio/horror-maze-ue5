@@ -12,3 +12,5 @@ Saved/
 *.pdb
 *.obj
 *.exe
+*.sln
+*.VC.db
